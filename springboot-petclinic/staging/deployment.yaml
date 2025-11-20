@@ -1,0 +1,15 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: spring-petclinic
+  labels:
+    environment: springboot-petclinic-staging
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      environment: springboot-petclinic-staging
+  template:
+    metadata:
+      labels:
+        environment: springboot-petclinic-staging
