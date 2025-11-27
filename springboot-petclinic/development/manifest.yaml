@@ -56,7 +56,7 @@ spec:
         environment: springboot-petclinic-development
     spec:
       containers:
-        - image: quay.io/anjoseph/spring-petclinic:v0.1
+        - image: quay.io/anjoseph/springboot-petclinic:v0.1
           imagePullPolicy: Always
           livenessProbe:
             failureThreshold: 3
