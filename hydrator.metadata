@@ -1,0 +1,8 @@
+{
+  "repoURL": "https://github.com/anandf/rendered-manifests-examples",
+  "drySha": "641e894d5c85fd2a89ebe5dd3bf730aeddabca65",
+  "author": "Anand Francis Joseph <anjoseph@redhat.com>",
+  "date": "2025-11-26T12:54:43Z",
+  "subject": "Updated image in base directory",
+  "body": "Signed-off-by: Anand Francis Joseph <anjoseph@redhat.com>\n"
+}
