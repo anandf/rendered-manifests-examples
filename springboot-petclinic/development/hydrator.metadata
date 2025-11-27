@@ -1,6 +1,6 @@
 {
   "repoURL": "https://github.com/anandf/rendered-manifests-examples",
-  "drySha": "641e894d5c85fd2a89ebe5dd3bf730aeddabca65",
+  "drySha": "341705f41a83b145a6bd502a55cbf066f2e855c6",
   "commands": [
     "kustomize build ./springboot-petclinic/development"
   ]
